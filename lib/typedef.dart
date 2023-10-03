@@ -1,0 +1,1 @@
+typedef ValidationMessageFunction = String Function(String error);
